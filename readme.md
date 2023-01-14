@@ -26,4 +26,10 @@ In this article I have discussed about the Audio and Video tags with examples. R
 
 # [Link to Article 5](https://medium.com/@santoshchhinchholikar/audio-and-video-tags-a560d9cd5782)
 
+# Article 6:
+In this article I have discussed about the selectors in CSS with examples. Read this article and try ot understand CSS selectors with coding examples which I have embedded to it.
+
+# [Lint to Article 6](https://santosh15.hashnode.dev/selectors-in-css)
+
+
 # 😇 Thank you for reading.
